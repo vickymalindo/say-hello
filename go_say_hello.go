@@ -1,5 +1,5 @@
 package sayhello
 
-func SayHello() string {
-	return "Welcome to my first go application"
+func SayHello(name string) string {
+	return "Welcome" + name + ", to my first go application"
 }
