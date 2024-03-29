@@ -1,5 +1,5 @@
 package sayhello
 
 func SayHello() string {
-	return "Welcome"
+	return "Welcome to my first go application"
 }
